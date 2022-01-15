@@ -1,6 +1,6 @@
 # FreeSWITCH Event Socket Layer library for PHP
 
-[![Build Status](https://travis-ci.com/rtckit/php-esl.svg?branch=main)](https://travis-ci.com/rtckit/php-esl)
+[![Build Status](https://app.travis-ci.com/rtckit/php-esl.svg?branch=main)](https://app.travis-ci.com/rtckit/php-esl)
 [![Latest Stable Version](https://poser.pugx.org/rtckit/esl/v/stable.png)](https://packagist.org/packages/rtckit/esl)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/aff5ee8e8ef3b51689c2/test_coverage)](https://codeclimate.com/github/rtckit/php-esl/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/aff5ee8e8ef3b51689c2/maintainability)](https://codeclimate.com/github/rtckit/php-esl/maintainability)
