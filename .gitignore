@@ -1,0 +1,5 @@
+.editorconfig
+.phpunit.result.cache
+reports
+vendor
+composer.lock
