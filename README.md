@@ -69,7 +69,7 @@ The other two options are less common:
 * `ConnectionInterface::INBOUND_SERVER` to impersonate a FreeSWITCH ESL server;
 * `ConnectionInterface::OUTBOUND_CLIENT` to impersonate FreeSWITCH connecting to a remote ESL endpoint in outbound mode;
 
-The latter two roles can be useful in test suites, implementing message relays, security research etc. Please note the inbound and outbound terms are relative to the FreeSWITCH endpoint (matching the [mod_event_socket mode](https://freeswitch.org/confluence/display/FREESWITCH/mod_event_socket) nomenclature).
+The latter two roles can be useful in test suites, implementing message relays, security research etc. Please note the inbound and outbound terms are relative to the FreeSWITCH endpoint (matching the [mod_event_socket](https://freeswitch.org/confluence/display/FREESWITCH/mod_event_socket) nomenclature).
 
 ## Requirements
 
